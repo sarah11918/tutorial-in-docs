@@ -1,3 +1,7 @@
+---
+layout: ../../layouts/MainLayout.astro
+---
+
 ## BY THE END OF THIS SECTION YOU WILL HAVE:
 - 
 
@@ -16,5 +20,5 @@ Fill in the blanks with **Netlify**, **VS Code** and **GitHub**:
 3. ________ is a web host, for deploying my website to the internet at a unique web address.
 
 
-### Checklist for moving on:
+## Checklist for moving on:
 [ ] I 
