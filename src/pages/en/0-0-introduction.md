@@ -1,3 +1,7 @@
+---
+layout: ../../layouts/MainLayout.astro
+---
+
 GETTING STARTED TEST
 
 In this tutorial, you will build a full-functioning Astro blog website, step-by-step, taking you from zero to full launch! :rocket:

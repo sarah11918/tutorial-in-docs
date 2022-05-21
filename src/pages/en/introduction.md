@@ -3,24 +3,35 @@ title: Introduction
 description: Docs intro
 layout: ../../layouts/MainLayout.astro
 ---
+Astro beginner tutorial
 
-**Welcome to Astro!**
+BACKGROUND CONTEXT:
+(Based on diataxis.fr)
 
-This is the `docs` starter template. It contains all of the features that you need to build a Markdown-powered documentation site, including:
+“A tutorial turns new learners into users.”
 
-- ✅ **Full Markdown support**
-- ✅ **Responsive mobile-friendly design**
-- ✅ **Sidebar navigation**
-- ✅ **Search (powered by Algolia)**
-- ✅ **Multi-language i18n**
-- ✅ **Automatic table of contents**
-- ✅ **Automatic list of contributors**
-- ✅ (and, best of all) **dark mode**
+Tutorials are specifically targeted at newcomers who may not know anything about how your product works, and should hold their hand through their first experience with your product. A tutorial should get a learner started, not make them an expert.
 
-## Getting Started
+Having completed a tutorial, the learner should be in a position to start to make sense of:
+- the rest of the documentation
+- the product itself
 
-To get started with this theme, check out the `README.md` in your new project directory. It provides documentation on how to use and customize this template for your own project. Keep the README around so that you can always refer back to it as you build.
+Learning takes place through what the pupil DOES. Facts and explanations are almost irrelevant at this stage. What matters is what you can get the learner to DO.
 
-Found a missing feature that you can't live without? Please suggest it on Discord [(#ideas-and-suggestions channel)](https://astro.build/chat) and even consider adding it yourself on GitHub! Astro is an open source project and contributions from developers like you are how we grow!
+A tutorial for beginners is not the same as “best practice.” It’s OK to have new learners do things differently from an advanced user. The learner should enjoy the experience, see immediate success from their actions, and gain confidence and a sense of achievement.
 
-Good luck out there, Astronaut. 🧑‍🚀
+
+PROPOSAL:
+
+A beginner tutorial will walk a learner through creating a fully-functioning blog site, starting from the minimal template. The completed project will include:
+
+- 3 Astro static pages: Home, About, Blog
+- 3 Markdown blog posts
+- 2 layouts: BaseLayout and MarkdownLayout
+- 1 Astro dynamic page [tags].astro that also generates a page for each blog post tag in use
+- 2 - 4 Astro components (Header, Footer, a reusable component for multiple pages…)
+-  a global style sheet at src/styles/global.css
+- 1 UI framework Integration (TBD - Solid? Choose your own adventure path?)
+- 1 styling Integration (Tailwind?)
+- 1 Astro integration (Astro Icons?)
+

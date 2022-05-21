@@ -1,5 +1,5 @@
 export const SITE = {
-	title: 'Documentation',
+	title: 'Astro Beginner Tutorial',
 	description: 'Your website description.',
 	defaultLanguage: 'en_US',
 };
@@ -37,10 +37,20 @@ export const SIDEBAR = {
 		{ text: '', header: true },
 		{ text: 'Section Header', header: true },
 		{ text: 'Introduction', link: 'en/introduction' },
-		{ text: 'Page 2', link: 'en/page-2' },
-		{ text: 'Page 3', link: 'en/page-3' },
 
-		{ text: 'Another Section', header: true },
-		{ text: 'Page 4', link: 'en/page-4' },
+		{ text: '0. Introduction', header: true },
+		{ text: '0.0 Introduction', link: 'en/0-0-introduction' },
+		{ text: '0.1 Background Knowledge', link: 'en/0.1-background-knowledge' },
+
+		{ text: '1. Setup', header: true },
+		{ text: '1.0 Overview', link: 'en/1.0-setup-overview' },
+		{ text: '1.1 Create a new project', link: 'en/1.1-install' },
+		{ text: '1.2 Connect to GitHub / Netlify', link: 'en/1.2-github' },
+
+		{ text: '2. Astro Pages', header: true },
+		{ text: '2.0 Overview', link: 'en/2.0-pages-overview' },
+		{ text: '2.1 Create New Pages', link: 'en/2.1-about-page' },
+		{ text: '2.2 Astro Script', link: 'en/2.2-using-script' },
+		{ text: '2.3 Astro Script 2', link: 'en/2.3-script-advanced' },
 	],
 };
