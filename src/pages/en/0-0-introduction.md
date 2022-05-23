@@ -1,20 +1,22 @@
 ---
 layout: ../../layouts/MainLayout.astro
+title: Introduction
 ---
 
-GETTING STARTED TEST
+## Guided Tutorial
 
 In this tutorial, you will build a full-functioning Astro blog website, step-by-step, taking you from zero to full launch! :rocket:
 
-Along the way, you'll see Astro core concepts like partial hydration, component-based composition and file routing in action, and you wiil also learn:
+Along the way, you'll see Astro core concepts like **partial hydration**, **component-based composition** and **file routing** in action, and you wiil also learn:
 - how to set up your development environnment and start a new project
 - how to create and edit pages for your website
 - how to build with Astro components
 - how to customize your site with Astro integrations
 
-If you would rather start by playing with a pre-built Astro site in your browser, you can visit https://astro.new and choose a starter template to open in a functioning code/preview environment in an online editor.
 
-You can also visit https://astro.build/play to see how Astro component-based composition works in a single page.
+> If you would rather start by playing with a pre-built Astro site in your browser, you can visit https://astro.new and choose a starter template to open in a functioning code/preview environment in an online editor.
+
+> You can also visit https://astro.build/play to see how Astro component-based composition works in a single page.
 
 This tutorial is designed to accommmodate people with differing level of web development experience. Feel free to skip ahead to [whatever start section] if you are ready to jump right into the code.
 
@@ -23,7 +25,9 @@ The "My Learning Astro Blog" that you will build has many of the features you wo
 
 After completing the tutorial, your finished blog will look like this: [link to finished blog], [screenshots]
 
-Checklist for moving on:
+## Before you go
+
+### Checklist for moving on
 
 [ ] I'm ready to build with Astro! :rocket:
 
