@@ -49,8 +49,21 @@ export const SIDEBAR = {
 
 		{ text: '2. Astro Pages', header: true },
 		{ text: '2.0 Overview', link: 'en/2.0-pages-overview' },
-		{ text: '2.1 Create New Pages', link: 'en/2.1-about-page' },
+		{ text: '2.1 About Page', link: 'en/2.1-about-page' },
 		{ text: '2.2 Astro Script', link: 'en/2.2-using-script' },
 		{ text: '2.3 Astro Script 2', link: 'en/2.3-script-advanced' },
+		{ text: '2.4 Astro Style Tag', link: 'en/2.4-style-tag' },
+
+		{ text: '3. Astro Components', header: true },
+		{ text: '3.0 Overview', link: 'en/3.0-components-overview' },
+		{ text: '3.1 Nagivation Component', link: 'en/3.1-navigation-component' },
+		{ text: '3.2 Component Props', link: 'en/3.2-component-props' },
+		{ text: '3.3 Layout Component - figure out why this page does not render', link: 'en/3.3-layout' },
+
+		{ text: '4. Markdown Blog Posts', header: true },
+		{ text: '4.0 Overview', link: 'en/4.0-markdown-blog-posts' },
+		{ text: '4.1 Create a Blog Post', link: 'en/4.1-markdown-post' },
+		{ text: '4.2 Using Markdown Frontmatter', link: 'en/4.2-markdown-frontmatter' },
+		{ text: '4.3 Adding Blog Pages', link: 'en/4.3-adding-blog-pages' },
 	],
 };
