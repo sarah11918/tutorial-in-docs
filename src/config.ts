@@ -58,7 +58,7 @@ export const SIDEBAR = {
 		{ text: '3.0 Overview', link: 'en/3.0-components-overview' },
 		{ text: '3.1 Nagivation Component', link: 'en/3.1-navigation-component' },
 		{ text: '3.2 Component Props', link: 'en/3.2-component-props' },
-		{ text: '3.3 Layout Component - figure out why this page does not render', link: 'en/3.3-layout' },
+		{ text: '3.3 Layout Component', link: 'en/3.3-layout' },
 
 		{ text: '4. Markdown Blog Posts', header: true },
 		{ text: '4.0 Overview', link: 'en/4.0-markdown-blog-posts' },
