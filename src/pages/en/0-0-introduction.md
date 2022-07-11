@@ -5,7 +5,7 @@ title: Introduction
 
 ## Guided Tutorial
 
-In this tutorial, you will build a full-functioning Astro blog website, step-by-step, taking you from zero to full launch! :rocket:
+In this tutorial, you will build a fully-functioning Astro blog website, step-by-step, taking you from zero to full launch! :rocket:
 
 Along the way, you'll see Astro core concepts like **partial hydration**, **component-based composition** and **file routing** in action, and you wiil also learn:
 - how to set up your development environnment and start a new project
