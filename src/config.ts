@@ -65,5 +65,17 @@ export const SIDEBAR = {
 		{ text: '4.1 Create a Blog Post', link: 'en/4.1-markdown-post' },
 		{ text: '4.2 Using Markdown Frontmatter', link: 'en/4.2-markdown-frontmatter' },
 		{ text: '4.3 Adding Blog Pages', link: 'en/4.3-adding-blog-pages' },
+
+		{ text: '5. Using the API', header: true },
+		{ text: '5.0 Overview', link: 'en/5.0-api-overview' },
+		{ text: '5.1 Placeholder', link: 'en/5.1-placeholder' },
+		{ text: '5.2 Placeholder', link: 'en/5.2-placeholder' },
+		{ text: '5.3 Placeholder', link: 'en/5.3-placeholder' },
+
+		{ text: '6. Integrations', header: true },
+		{ text: '6.0 Overview', link: 'en/6.0-integrations-overview' },
+		{ text: '6.1 Placeholder', link: 'en/6.1-placeholder' },
+		{ text: '6.2 Placeholder', link: 'en/6.2-placeholder' },
+		{ text: '6.3 Placeholder', link: 'en/6.3-placeholder' },
 	],
 };
