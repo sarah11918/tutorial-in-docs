@@ -68,9 +68,9 @@ export const SIDEBAR = {
 
 		{ text: '5. Using the API', header: true },
 		{ text: '5.0 Overview', link: 'en/5.0-api-overview' },
-		{ text: '5.1 Placeholder', link: 'en/5.1-placeholder' },
-		{ text: '5.2 Placeholder', link: 'en/5.2-placeholder' },
-		{ text: '5.3 Placeholder', link: 'en/5.3-placeholder' },
+		{ text: '5.1 Astro.glob()', link: 'en/5.1-astro-glob' },
+		{ text: '5.2 getStaticPaths()', link: 'en/5.2-getstaticpaths' },
+		{ text: '5.3 rss()', link: 'en/5.3-rss' },
 
 		{ text: '6. Integrations', header: true },
 		{ text: '6.0 Overview', link: 'en/6.0-integrations-overview' },
