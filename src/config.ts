@@ -73,10 +73,10 @@ export const SIDEBAR = {
 		{ text: '5.3 Tag Index Page', link: 'en/5.3-tag-index' },
 		{ text: '5.4 RSS Feed', link: 'en/5.4-rss' },
 
-		{ text: '6. Integrations', header: true },
-		{ text: '6.0 Overview', link: 'en/6.0-integrations-overview' },
-		{ text: '6.1 Placeholder', link: 'en/6.1-placeholder' },
-		{ text: '6.2 Placeholder', link: 'en/6.2-placeholder' },
-		{ text: '6.3 Placeholder', link: 'en/6.3-placeholder' },
+		{ text: '6. Interactivity', header: true },
+		{ text: '6.0 Overview', link: 'en/6.0-interactivity-overview' },
+		{ text: '6.1 Responsive Navigation', link: 'en/6.1-responsive-navigation' },
+		{ text: '6.2 Data Fetching', link: 'en/6.2-data-fetching' },
+		{ text: '6.3 UI Framework Components', link: 'en/6.3-ui-framework-components' },
 	],
 };
