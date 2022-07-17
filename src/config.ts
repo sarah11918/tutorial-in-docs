@@ -76,7 +76,7 @@ export const SIDEBAR = {
 		{ text: '6. Interactivity', header: true },
 		{ text: '6.0 Overview', link: 'en/6.0-interactivity-overview' },
 		{ text: '6.1 Theme Toggle', link: 'en/6.1-theme-toggle' },
-		{ text: '6.2 Data Fetching', link: 'en/6.2-data-fetching' },
+		{ text: '6.2 Responsive Nav', link: 'en/6.2-responsive-nav' },
 		{ text: '6.3 UI Framework Components', link: 'en/6.3-ui-framework-components' },
 	],
 };
